@@ -1,0 +1,22 @@
+/* CSS Document for Stritt Family Favorites */
+
+table{
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+}
+
+td, th{
+    border: 1px solid #000000;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #d9eefa;
+}
+
+caption{
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-weight: bold;
+    font-size: 1.5em;
+}
